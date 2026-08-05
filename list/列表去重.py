@@ -10,3 +10,14 @@ def unique_list2():
     set1 = set(list1)
     unique_list = list(set1)
     print(unique_list)
+
+
+def unique_list3():
+    nums = []
+    while True:
+        s = input("请输入一个数字（q退出）: ")
+        if s.lower() == "q":
+            break
+        nums.append(int(s))
+
+    print(nums)
