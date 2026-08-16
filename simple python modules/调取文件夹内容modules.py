@@ -88,3 +88,6 @@ if __name__ == "__main__":
 # python "D:\PycharmProjects\summer-30day-python-learn-log\practice\day09_log_search.py" --kw set --dir "D:\PycharmProjects\summer-30day-python-learn-log\daily"
 
 
+
+
+
